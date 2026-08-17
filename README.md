@@ -8,18 +8,6 @@ My primary development profile is maintained separately. This account is where I
 
 ---
 
-## What You'll Find Here
-
-- Open-source contributions
-- Collaborative projects
-- Software engineering experiments
-- Documentation improvements
-- Small tools and utilities
-- Learning projects
-- Pull requests and code reviews
-
----
-
 ## Currently Exploring
 
 | Area | Technologies |
