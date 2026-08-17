@@ -1,16 +1,115 @@
-## Hi there 👋
+# Mehedi Hassan Bhuiyan
 
-<!--
-**Codebaba007/Codebaba007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering • Open Source • Experiments
 
-Here are some ideas to get you started:
+This is my **secondary GitHub account**, mainly used for open-source contributions, collaborative projects, experiments, and learning through real-world code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary development profile is maintained separately. This account is where I get my hands dirty with projects, pull requests, experiments, and collaboration.
+
+---
+
+## What You'll Find Here
+
+- Open-source contributions
+- Collaborative projects
+- Software engineering experiments
+- Documentation improvements
+- Small tools and utilities
+- Learning projects
+- Pull requests and code reviews
+
+---
+
+## Currently Exploring
+
+| Area | Technologies |
+|------|--------------|
+| Programming | Python, JavaScript, TypeScript |
+| Frontend | HTML, CSS, React |
+| Backend | Node.js, Express |
+| Database | PostgreSQL |
+| AI / ML | Python, NumPy, Machine Learning |
+| Tools | Git, GitHub, VS Code, Docker, Postman |
+
+---
+
+## My Development Journey
+
+I'm currently building my foundation toward becoming a well-rounded software engineer.
+
+### 01 — Problem Solving
+
+Working through Data Structures & Algorithms with Python and solving problems regularly.
+
+### 02 — Web Development
+
+Learning how modern applications are built from frontend to backend, APIs, databases, and deployment.
+
+### 03 — Machine Learning
+
+Exploring data processing, machine learning algorithms, and practical AI applications.
+
+### 04 — Open Source
+
+Learning how real software is developed collaboratively through issues, branches, pull requests, reviews, and documentation.
+
+---
+
+## Open Source
+
+I'm particularly interested in contributing through:
+
+- Bug fixes
+- Documentation
+- Testing
+- Small features
+- Developer tooling
+- Beginner-friendly issues
+
+I believe open source is one of the best environments for learning how software engineering works beyond personal projects.
+
+---
+
+## A Few Things About This Account
+
+> **This isn't my primary profile.**
+
+It's my space for:
+
+**Build → Experiment → Contribute → Learn → Repeat**
+
+Some repositories here may be experiments. Others may be collaborative projects or contributions to existing open-source software.
+
+The goal is simple: **write more code, work with more developers, and keep improving.**
+
+---
+
+## Tech Stack
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## Connect
+
+**Primary Profile:** [Mehedi032003](https://github.com/Mehedi032003)
+
+**LinkedIn:** [Mehedi Hassan Bhuiyan](https://www.linkedin.com/in/mehedi-hassan-bhuiyan-589531304/)
+
+**Email:** [abraharmehedi003@gmail.com](mailto:abraharmehedi003@gmail.com)
+
+---
+
+> *Different account. Same developer. More things to build.*
