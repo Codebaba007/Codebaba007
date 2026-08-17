@@ -1,103 +1,108 @@
-# Mehedi Hassan Bhuiyan
+<h1 align="center">Hi, I'm Mehedi Hassan Bhuiyan</h1>
 
-### Software Engineering • Open Source • Experiments
+<p align="center">
+Computer Science & Engineering Student • Aspiring Software Engineer
+</p>
 
-This is my **secondary GitHub account**, mainly used for open-source contributions, collaborative projects, experiments, and learning through real-world code.
+<p align="center">
+Building software through consistent learning, practical projects, and problem solving.
+</p>
 
-My primary development profile is maintained separately. This account is where I get my hands dirty with projects, pull requests, experiments, and collaboration.
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/mehedi-hassan-bhuiyan-589531304/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-## Currently Exploring
+<a href="mailto:abraharmehedi003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-| Area | Technologies |
-|------|--------------|
-| Programming | Python, JavaScript, TypeScript |
-| Frontend | HTML, CSS, React |
-| Backend | Node.js, Express |
-| Database | PostgreSQL |
-| AI / ML | Python, NumPy, Machine Learning |
-| Tools | Git, GitHub, VS Code, Docker, Postman |
+<a href="https://www.facebook.com/mehedi.hassan.2003/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
 
----
-
-## My Development Journey
-
-I'm currently building my foundation toward becoming a well-rounded software engineer.
-
-### 01 — Problem Solving
-
-Working through Data Structures & Algorithms with Python and solving problems regularly.
-
-### 02 — Web Development
-
-Learning how modern applications are built from frontend to backend, APIs, databases, and deployment.
-
-### 03 — Machine Learning
-
-Exploring data processing, machine learning algorithms, and practical AI applications.
-
-### 04 — Open Source
-
-Learning how real software is developed collaboratively through issues, branches, pull requests, reviews, and documentation.
+</p>
 
 ---
 
-## Open Source
+# About Me
 
-I'm particularly interested in contributing through:
+I'm a Computer Science & Engineering student passionate about software engineering, artificial intelligence, and building scalable applications.
 
-- Bug fixes
-- Documentation
-- Testing
-- Small features
-- Developer tooling
-- Beginner-friendly issues
+I'm currently focused on:
 
-I believe open source is one of the best environments for learning how software engineering works beyond personal projects.
+- Data Structures & Algorithms
+- Full-Stack Development 
+- DevOps
+- Machine Learning
 
----
-
-## A Few Things About This Account
-
-> **This isn't my primary profile.**
-
-It's my space for:
-
-**Build → Experiment → Contribute → Learn → Repeat**
-
-Some repositories here may be experiments. Others may be collaborative projects or contributions to existing open-source software.
-
-The goal is simple: **write more code, work with more developers, and keep improving.**
+GitHub is where I document my progress through projects, experiments, and consistent daily practice.
 
 ---
 
-## Tech Stack
+# Current Learning
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+- Python Data Structures & Algorithms
+- Responsive Web Development
+- React & TypeScript
+- Node.js & Express
+- PostgreSQL
+- Machine Learning
 
 ---
 
-## Connect
+# Current Projects
 
-**Primary Profile:** [Mehedi032003](https://github.com/Mehedi032003)
-
-**LinkedIn:** [Mehedi Hassan Bhuiyan](https://www.linkedin.com/in/mehedi-hassan-bhuiyan-589531304/)
-
-**Email:** [abraharmehedi003@gmail.com](mailto:abraharmehedi003@gmail.com)
+- Python DSA Journey
+- Full Stack Journey
+- Machine Learning Journey
 
 ---
 
-> *Different account. Same developer. More things to build.*
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+
+---
+
+
+# Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| **Python DSA Journey** | Daily Data Structures & Algorithms practice using Python |
+| **Full Stack Journey** | Web development projects and learning notes |
+| **Machine Learning Journey** | Machine learning implementations and experiments |
+
+---
+
+
+<p align="center">
+
+*"Consistency beats intensity."*
+
+</p>
