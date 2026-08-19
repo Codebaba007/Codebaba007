@@ -32,10 +32,10 @@ I'm a Computer Science & Engineering student passionate about software engineeri
 
 I'm currently focused on:
 
-- Data Structures & Algorithms
-- Full-Stack Development 
-- DevOps
-- Machine Learning
+* Data Structures & Algorithms
+* Full-Stack Development
+* DevOps
+* Machine Learning
 
 GitHub is where I document my progress through projects, experiments, and consistent daily practice.
 
@@ -43,20 +43,20 @@ GitHub is where I document my progress through projects, experiments, and consis
 
 # Current Learning
 
-- Python Data Structures & Algorithms
-- Responsive Web Development
-- React & TypeScript
-- Node.js & Express
-- PostgreSQL
-- Machine Learning
+* Python Data Structures & Algorithms
+* Responsive Web Development
+* React & TypeScript
+* Node.js & Express
+* PostgreSQL
+* Machine Learning
 
 ---
 
 # Current Projects
 
-- Python DSA Journey
-- Full Stack Journey
-- Machine Learning Journey
+* Python DSA Journey
+* Full Stack Journey
+* Machine Learning Journey
 
 ---
 
@@ -86,22 +86,28 @@ GitHub is where I document my progress through projects, experiments, and consis
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
-
 ---
-
 
 # Featured Repositories
 
-| Repository | Description |
-|------------|-------------|
-| **Python DSA Journey** | Daily Data Structures & Algorithms practice using Python |
-| **Full Stack Journey** | Web development projects and learning notes |
-| **Machine Learning Journey** | Machine learning implementations and experiments |
+| Repository                   | Description                                              |
+| ---------------------------- | -------------------------------------------------------- |
+| **Python DSA Journey**       | Daily Data Structures & Algorithms practice using Python |
+| **Full Stack Journey**       | Web development projects and learning notes              |
+| **Machine Learning Journey** | Machine learning implementations and experiments         |
 
 ---
 
+## 🌱 Contribution Garden
 
 <p align="center">
+
+<img
+  src="https://kodama-sigma.vercel.app/codebaba007.svg"
+  alt="My GitHub contribution bonsai"
+/>
+
+</p>
 
 *"Consistency beats intensity."*
 
