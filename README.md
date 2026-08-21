@@ -24,6 +24,21 @@ Building software through consistent learning, practical projects, and problem s
 
 </p>
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
+    />
+    <img
+      src="./assets/contributions.light.svg"
+      alt="GitHub Contribution Streak and 3D Calendar"
+      width="100%"
+    />
+  </picture>
+</p>
 ---
 
 # About Me
