@@ -24,7 +24,7 @@ Building software through consistent learning, practical projects, and problem s
 
 </p>
 
-## 🔥 Contribution Streak
+
 
 <p align="center">
   <picture>
@@ -39,7 +39,6 @@ Building software through consistent learning, practical projects, and problem s
     />
   </picture>
 </p>
----
 
 # About Me
 
@@ -112,17 +111,6 @@ GitHub is where I document my progress through projects, experiments, and consis
 | **Machine Learning Journey** | Machine learning implementations and experiments         |
 
 ---
-
-## 🌱 Contribution Garden
-
-<p align="center">
-
-<img
-  src="https://kodama-sigma.vercel.app/codebaba007.svg"
-  alt="My GitHub contribution bonsai"
-/>
-
-</p>
 
 *"Consistency beats intensity."*
 
