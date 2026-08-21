@@ -1,0 +1,27 @@
+name: Profile Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Generate Contribution Card
+        uses: seijikohara/profile-cards-action@v0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          cards: contributions
+          output-dir: assets
+          themes: light,dark
+          commit: true
