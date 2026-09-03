@@ -7,6 +7,14 @@ Computer Science & Engineering Student • Aspiring Software Engineer
 <p align="center">
 Building software through consistent learning, practical projects, and problem solving.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ %20ACCOUNT%20MIGRATION-ffb000?style=for-the-badge&labelColor=181717"/>
+</p>
+
+<p align="center">
+  <b>My previous primary GitHub account is no longer accessible.</b><br>
+  Earlier repositories and projects have been migrated here, this is now my primary account.
+</p>
 
 <p align="center">
 
