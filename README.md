@@ -82,7 +82,7 @@ GitHub is where I document my progress through projects, experiments, and consis
 
 ---
 
-# Tech Stack
+# Learning 
 
 ### Languages
 
