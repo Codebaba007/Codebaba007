@@ -7,8 +7,9 @@ Computer Science & Engineering Student • Aspiring Software Engineer
 <p align="center">
 Building software through consistent learning, practical projects, and problem solving.
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/ %20ACCOUNT%20MIGRATION-ffb000?style=for-the-badge&labelColor=181717"/>
+  <img src="https://img.shields.io/badge/%20ACCOUNT%20MIGRATION-ffb000?style=for-the-badge&labelColor=181717"/>
 </p>
 
 <p align="center">
@@ -32,7 +33,15 @@ Building software through consistent learning, practical projects, and problem s
 
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/L1QU1D">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
+  </a>
 
+  <a href="https://leetcode.com/u/Mehedi_Core_G/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <picture>
